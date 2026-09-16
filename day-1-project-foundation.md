@@ -182,12 +182,6 @@ student_attendance
 
 Exit MySQL.
 
-### MySQL command Mandatory to drop for further conflicts
-
-```sql
-drop DATABASE student_attendance;
-```
-
 ```sql
 EXIT;
 ```
